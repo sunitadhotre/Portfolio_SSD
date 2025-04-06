@@ -1,0 +1,4 @@
+1)Change font to - Arial
+2)change the menu height
+3)delete 'hello welcome'
+4)original: Ph.D, Speaker, National IP Awareness Mission\ change to:Ph.D, National IP Awareness Mission,Speaker ,
